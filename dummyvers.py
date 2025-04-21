@@ -1,2 +1,5 @@
-print("Hello World")
-print("This is a fake app")
+def initializer():
+    print("Hello World")
+
+def multiplication(num_one, num_two):
+    return num_one * num_two
